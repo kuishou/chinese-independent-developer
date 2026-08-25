@@ -1,9 +1,9 @@
-name: 触发 Claude Routine
+# name: 触发 Claude Routine
 
-on:
-  schedule:
-    - cron: '0 */6 * * *'
-  workflow_dispatch:
+# on:
+#   schedule:
+#     - cron: '0 */6 * * *'
+#   workflow_dispatch:
 
 # jobs:
 #   trigger:
